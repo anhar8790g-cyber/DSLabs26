@@ -5,8 +5,8 @@ public class Main {
 
 
         System.out.println("anhar");
+        System.out.println("anhar");
     } {
-
     }
 
 }
